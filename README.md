@@ -23,10 +23,12 @@ Includes a "strict" mode that restarts the game when a mistake is made.</p>
 
 
 <h2>Technologies Used</h2>
-<h3>HTML</h3>
-<h3>CSS</h3>
-<h3>JavaScript</h3>
-<h3>jQuery (for DOM manipulation)</h3>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>jQuery (for DOM manipulation)</li>
+    </ul>
 
 
 <h2>Credits</h2>
