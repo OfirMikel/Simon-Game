@@ -1,0 +1,66 @@
+h1{
+   font-size: 3rem;
+   color: white;
+   font-family: 'Press Start 2P', cursive;
+}
+
+.container{
+   display: flex;
+   justify-content: center;
+   text-align: center;
+}
+
+.you-lost{
+   font-size: 2rem;
+   color: white;
+   font-family: 'Press Start 2P', cursive;
+}
+.container2{
+   display: flex;
+   justify-content: center;
+   text-align: center;
+}
+.container-grid{
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+   grid-template-rows: 1fr 1fr;
+   width: 800px;
+   height: 800px;
+}
+.green-box{
+   background-color: green;
+   width: 300px;
+   height: 300px;
+   border: 9px solid black;
+   border-radius: 30px;
+}
+
+
+.blue-box{
+   background-color: blue;
+   width: 300px;
+   height: 300px;
+   border: 9px solid black;
+   border-radius: 30px;
+}
+
+
+.red-box{
+   background-color: red;
+   width: 300px;
+   height: 300px;
+   border: 9px solid black;
+   border-radius: 30px;
+}
+
+
+.yellow-box{
+   background-color: yellow;
+   width: 300px;
+   height: 300px;
+   border: 9px solid black;
+   border-radius: 30px;
+}
+body{
+   background-color: #0b1d3b;
+}
