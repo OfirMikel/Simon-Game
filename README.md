@@ -16,7 +16,7 @@ Gradually increases the difficulty by adding more steps to the sequence.<br>
 Includes a "strict" mode that restarts the game when a mistake is made.</p>
 
 
-<img align="center" alt="media simon gif" width="500" height= "500" src= "[screen.png](https://media.tenor.com/KPTI9TNVD-UAAAAC/sml-jeffy.gif)">
+<img align="center" alt="media simon gif" width="500" height= "500" src= "https://media.tenor.com/KPTI9TNVD-UAAAAC/sml-jeffy.gif">
 
 
 <h2>You can play the game online by visiting the following link: Play Simon Game</h2>
