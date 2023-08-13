@@ -21,6 +21,7 @@
 
 <p>You can play the game online by visiting the following link:  </p>
 [simonGame](https://ofirmikel.github.io/Simon-Game/)
+![simonGame](https://ofirmikel.github.io/Simon-Game/)
 
 <h2>Technologies Used</h2>
 <ul>
