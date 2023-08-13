@@ -19,9 +19,9 @@
 
 <img align="center" alt="media simon gif" width="1500" height= "500" src= "https://media.tenor.com/KPTI9TNVD-UAAAAC/sml-jeffy.gif">
 
-<p>You can play the game online by visiting the following link:  
-![simonGame](https://ofirmikel.github.io/Simon-Game/)
-</p>
+<p>You can play the game online by visiting the following link:  </p>
+[simonGame](https://ofirmikel.github.io/Simon-Game/)
+
 <h2>Technologies Used</h2>
 <ul>
     <li>HTML</li>
